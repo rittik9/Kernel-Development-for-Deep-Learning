@@ -1,10 +1,12 @@
-# CUDA-Programming
-Tutorials &amp; Resources for CUDA Programming
+# Kernel Development for Deep Learning
+Tutorials &amp; Resources for Kernel Development
 
 ## Video Resources:<br>
-- CUDA: https://www.youtube.com/watch?v=86FAWCzIe_4&t=7299s
-- Thunder: https://www.youtube.com/playlist?list=PLaMu-SDt_RB7ImARcTT_Wjypwx2vBIBen
-- Andrej Karpathy: https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+### Basics of Deep Learning:
+- Andrej Karpathy: [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+### Kernel Development:
+- freeCodeCamp: [CUDA Programming](https://www.youtube.com/watch?v=86FAWCzIe_4&t=7299s)
+- Lightning AI: [The Thunder Sessions](https://www.youtube.com/playlist?list=PLaMu-SDt_RB7ImARcTT_Wjypwx2vBIBen)
 
 ## Study Materials:
 ### Documentation:
