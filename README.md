@@ -9,6 +9,10 @@ Tutorials &amp; Resources for Kernel Development
 - Lightning AI: [The Thunder Sessions](https://www.youtube.com/playlist?list=PLaMu-SDt_RB7ImARcTT_Wjypwx2vBIBen)
 
 ## Study Materials:
+### Blogs:
+- [Part 1](https://learnopencv.com/demystifying-gpu-architectures-for-deep-learning/)
+- [Part 2](https://learnopencv.com/demystifying-gpu-architectures-for-deep-learning-part-2/)
+
 ### Documentation:
 - [Triton(OpenAI) Documentation](https://triton-lang.org/main/index.html)
 
