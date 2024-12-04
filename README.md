@@ -2,7 +2,7 @@
 Tutorials &amp; Resources for Kernel Development
 
 ## Video Resources:<br>
-### Basics of Deep Learning:
+### Deep Learning:
 - Andrej Karpathy: [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 
 ### Kernel Development:
 - freeCodeCamp: [CUDA Programming](https://www.youtube.com/watch?v=86FAWCzIe_4&t=7299s) [Repo](https://github.com/Infatoshi/cuda-course)
