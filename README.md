@@ -1,5 +1,5 @@
 # Kernel Development for Deep Learning
-Tutorials &amp; Resources for Kernel Development
+Tutorials &amp; Resources for Kernel Development for GPUs
 
 ## Video Resources:<br>
 ### Deep Learning:
