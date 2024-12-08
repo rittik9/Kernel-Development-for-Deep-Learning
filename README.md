@@ -17,6 +17,7 @@ Tutorials &amp; Resources for Kernel Development for GPUs
 
 ### Documentation:
 - [Triton(OpenAI) Documentation](https://triton-lang.org/main/index.html)
+- [torch.compile](https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html)
 
 ### Handbook:
 - [Programming Massively Parallel Processors: A Hands-on Approach](https://safari.ethz.ch/architecture/fall2019/lib/exe/fetch.php?media=2013_programming_massively_parallel_processors_a_hands-on_approach_2nd.pdf)
