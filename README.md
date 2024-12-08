@@ -7,7 +7,7 @@ Tutorials &amp; Resources for Kernel Development for GPUs
 ### Kernel Development:
 - freeCodeCamp: [CUDA Programming](https://www.youtube.com/watch?v=86FAWCzIe_4&t=7299s) [Repo](https://github.com/Infatoshi/cuda-course)
 - Lightning AI: [The Thunder Sessions](https://www.youtube.com/playlist?list=PLaMu-SDt_RB7ImARcTT_Wjypwx2vBIBen)
-
+- Computerphile: [Just In Time (JIT) Compilers](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 ## Study Materials:
 ### Blog:
 - [Part 1](https://learnopencv.com/demystifying-gpu-architectures-for-deep-learning/)
