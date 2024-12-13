@@ -23,3 +23,4 @@ Tutorials &amp; Resources for Kernel Development for GPUs
 - [Programming Massively Parallel Processors: A Hands-on Approach](https://safari.ethz.ch/architecture/fall2019/lib/exe/fetch.php?media=2013_programming_massively_parallel_processors_a_hands-on_approach_2nd.pdf)
 ### Reddit:
 - [Discussion 1](https://www.reddit.com/r/MachineLearning/comments/w52iev/d_what_are_some_good_resources_to_learn_cuda/?rdt=56325)
+- [GPU Glossary](https://modal.com/gpu-glossary/device-software/parallel-thread-execution)
