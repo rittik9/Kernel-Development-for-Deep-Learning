@@ -5,6 +5,7 @@ Tutorials &amp; Resources for Kernel Development for GPUs
 ### Deep Learning:
 - Andrej Karpathy: [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 
 ### Kernel Development:
+- Jeremy Howard: [Getting Started With CUDA for Python Programmers](https://www.youtube.com/watch?v=nOxKexn3iBo)
 - freeCodeCamp: [CUDA Programming](https://www.youtube.com/watch?v=86FAWCzIe_4&t=7299s) [Repo](https://github.com/Infatoshi/cuda-course)
 - Lightning AI: [The Thunder Sessions](https://www.youtube.com/playlist?list=PLaMu-SDt_RB7ImARcTT_Wjypwx2vBIBen)
 ### JIT:
