@@ -25,3 +25,5 @@ Tutorials &amp; Resources for Kernel Development for GPUs
 ### Reddit:
 - [Discussion 1](https://www.reddit.com/r/MachineLearning/comments/w52iev/d_what_are_some_good_resources_to_learn_cuda/?rdt=56325)
 ## [GPU Glossary](https://modal.com/gpu-glossary/device-software/parallel-thread-execution)
+## Temp:
+- [Podcast](https://www.youtube.com/live/INryb8Hjk3c)
