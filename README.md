@@ -27,3 +27,4 @@ Tutorials &amp; Resources for Kernel Development for GPUs
 ## [GPU Glossary](https://modal.com/gpu-glossary/device-software/parallel-thread-execution)
 ## Temp:
 - [Podcast](https://www.youtube.com/live/INryb8Hjk3c)
+- [0MEAN1SIGMA - How to Program a GPU](https://www.youtube.com/watch?v=GetaI7KhbzM)
